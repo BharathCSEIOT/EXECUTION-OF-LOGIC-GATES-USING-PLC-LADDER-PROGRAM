@@ -71,6 +71,7 @@ NOR Gate:
 ![norlogic](https://github.com/user-attachments/assets/e571e579-5afa-4527-b399-e48737f96b9f)
 
 XOR Gate:
+
 ![xorlogic](https://github.com/user-attachments/assets/f5c22ef3-1db7-403a-898f-99b16791c8d4)
 
 # Procedure:
